@@ -86,4 +86,4 @@ HTML-like
 
 ## Discriptions
 
-…
+….
